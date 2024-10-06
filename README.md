@@ -164,9 +164,11 @@ Before you begin, ensure you have the following installed on your development en
 - **Arduino IDE** for uploading the firmware to the ESP32.
 - **ESP32 Board Package** for Arduino IDE. For Arduino IDE, you can install it by going to **File > Preferences > Additional Board Manager URLs** and adding `https://dl.espressif.com/dl/package_esp32_index.json`. Then, navigate to **Tools > Board > Board Manager** and search for "ESP32".
 - **Required Libraries**:
+  - **Math**: For mathematical calculations involved in energy consumption, cost, and other metrics.
   - **WiFi**: For WiFi connectivity.
   - [**PicoMQTT** by Michał Leśniewski](<https://github.com/mlesniew/PicoMQTT>) version `0.3.8` : To enable the ESP32 to function as an MQTT broker/server.
   - [**WiFiManager** by tzapu](<https://github.com/tzapu/WiFiManager>) version `2.0.17`: For handling WiFi connections and configurations.
+  - [**PZEM004Tv30** by Jakub Mandula](https://github.com/mandulaj/PZEM-004T-v30) version `1.1.2`: To interface with the PZEM-004T v3.0 energy meter, enabling the reading of voltage, current, and power values.
 
 ### Clone the Repository
 To get started with the project, clone the repository to your local machine:
