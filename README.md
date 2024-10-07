@@ -1,5 +1,7 @@
 # OPIN kWh Meter
 
+[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 ![kWh Meter](https://github.com/OPIN-Smart-Home/kWhMeter/blob/main/asset/kWhMeter.png)
 
 ## Table of Contents
