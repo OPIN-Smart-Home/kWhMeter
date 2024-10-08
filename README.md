@@ -19,6 +19,7 @@ For Developer
 
 Additional Information
 - [OPIN Smart Home Devices](#opin-smart-home-devices)
+- [Acknowledgments](#acknowledgments)
 - [Further Information](#further-information)
 
  ---
@@ -224,6 +225,14 @@ Other devices:
 - [OPIN Smart Lamp](<https://github.com/OPIN-Smart-Home/SmartLamp>)
 - [OPIN Smart Door Lock](<https://github.com/OPIN-Smart-Home/DoorLock>)
 - [OPIN Smart AC Control](<https://github.com/OPIN-Smart-Home/ACControl>)
+
+## Acknowledgments
+This project makes use of:  
+- [PicoMQTT](<https://github.com/mlesniew/PicoMQTT>) by [mlesniew](<https://github.com/mlesniew>) (Michał Leśniewski), under [LGPL-3.0 license](<https://github.com/mlesniew/PicoMQTT/blob/master/LICENSE>).
+- [WiFiManager](<https://github.com/tzapu/WiFiManager>) by [tzapu](<https://github.com/tzapu>), under [MIT license](<https://github.com/tzapu/WiFiManager/blob/master/LICENSE>).
+- [PZEM004Tv30](<https://github.com/mandulaj/PZEM-004T-v30>) by [mandulaj](<https://github.com/mandulaj>) (Jakub Mandula), under [MIT license](<https://github.com/mandulaj/PZEM-004T-v30/blob/master/LICENSE>).
+
+We appreciate their efforts and contributions, which have been instrumental in the development of this project.
 
 ## Further Information
 For further information, please feel free to contact me at:
